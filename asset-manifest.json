@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuldeepkaware123/pictorial-authentication/static/css/main.4921ff22.css",
+    "main.js": "/kuldeepkaware123/pictorial-authentication/static/js/main.a3652e9a.js",
+    "static/js/787.0c9d4856.chunk.js": "/kuldeepkaware123/pictorial-authentication/static/js/787.0c9d4856.chunk.js",
+    "index.html": "/kuldeepkaware123/pictorial-authentication/index.html",
+    "main.4921ff22.css.map": "/kuldeepkaware123/pictorial-authentication/static/css/main.4921ff22.css.map",
+    "main.a3652e9a.js.map": "/kuldeepkaware123/pictorial-authentication/static/js/main.a3652e9a.js.map",
+    "787.0c9d4856.chunk.js.map": "/kuldeepkaware123/pictorial-authentication/static/js/787.0c9d4856.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4921ff22.css",
+    "static/js/main.a3652e9a.js"
+  ]
+}
